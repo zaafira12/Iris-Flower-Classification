@@ -49,7 +49,7 @@ The goal is to build a classification model that can predict the species of an I
 ##  Sample Visualizations
 
 ![Confusion Matrix](./images/confusion_matrix.png)
-![Accuracy Plot](./images/accuracy_plot.png)
+![Accuracy Plot](images/Accuracy_matrix.png)
 
 ---
 
